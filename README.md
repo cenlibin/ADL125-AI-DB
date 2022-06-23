@@ -4,7 +4,7 @@
 
 
 
-|  时间 | 负<br>责<br>人 | 主题                                                         | 资源 |
+| &nbsp;&nbsp;&nbsp; 时间&nbsp;&nbsp;&nbsp; | 负<br>责<br>人 | 主题                                                         | 资源 |
 | --------- | ------ | ------------------------------------------------------------ | ---- |
 | 6月25日 周六<br>9:30-12:30 |        | 专题讲座1：机器学习赋能的数据库系统<br>李国良<br> 清华大学教授，博导，计算机系副主任     |      |
 | 6月25日 周六<br>13:30-16:30 |        | 专题讲座2：Efficient In-Database Machine Learning with Deep Physical Integration<br>Ce Zhang <br>Assistant Professor, ETH Zurich  |      |
