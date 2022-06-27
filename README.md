@@ -2,7 +2,7 @@
 
 ## 2022年6月25～27日 9:00-17:00
 ## 点击链接入会，或添加至会议列表<br>https://meeting.tencent.com/dm/KfGLzsDpVyZM<br>745-5586-1066
-## 录屏  https://pan.baidu.com/s/1KEWvlRFToPnPtdqDpkMC0g 提取码 p99i 
+## [录屏](https://pan.baidu.com/s/1KEWvlRFToPnPtdqDpkMC0g) 提取码 p99i 
 | 时间| 负<br>责<br>人 | 主题                                                         | 资源 |
 | --------- | ------ | ------------------------------------------------------------ | ---- |
 | 6.25&nbsp;周六<br>9:30-12:30 |  张<br>振<br>宇  | 专题讲座1：机器学习赋能的数据库系统<br>李国良<br> 清华大学教授，博导，计算机系副主任     |      |
