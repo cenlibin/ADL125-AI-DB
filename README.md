@@ -12,5 +12,5 @@
 | 6.26&nbsp;周日<br> 13:30-14:50 | 岑<br>黎<br>彬 | 专题讲座5：Towards instance-optimized data systems<br>Tim Kraska  <br>Associate Professor，MIT  |      |
 | 6.26&nbsp;周日<br> 15:00-16:30 | 李<br>靖<br>东 | 专题讲座6：ZenDB: A Declarative AI-enhanced Database System <br>伍赛  <br> 浙江大学教授、博导  |      |
 | 6.27&nbsp;周一<br> 9:00-10:20 | 李<br>靖<br>东 | 专题讲座7：The New DBfication of ML/AI<br>Arun Kumar  <br>Associate Professor，UCSD  |      |
-| 6.27&nbsp;周一<br> 13:30-14:50 | 岑<br>黎<br>彬 | 专题讲座8：面向人工智能的数据准备技术：机遇与挑战<br>范举  <br>中国人民大学副教授，博导  |      |
-| 6.27&nbsp;周一<br> 15:00-16:30 | 屈<br>稳<br>稳 | 专题讲座9：自动化机器学习的原理与方法<br>姚权铭  <br>清华大学，助理教授，博导  |      |
+| 6.27&nbsp;周一<br> 10:30-12:00 | 岑<br>黎<br>彬 | 专题讲座8：面向人工智能的数据准备技术：机遇与挑战<br>范举  <br>中国人民大学副教授，博导  |      |
+| 6.27&nbsp;周一<br> 13:30-16:30 | 屈<br>稳<br>稳 | 专题讲座9：自动化机器学习的原理与方法<br>姚权铭  <br>清华大学，助理教授，博导  |      |
